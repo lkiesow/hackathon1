@@ -2,3 +2,5 @@ sentinelsat
 numpy
 pandas
 gdal
+geojson
+geojsonio
